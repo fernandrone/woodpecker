@@ -63,7 +63,7 @@ require (
 	k8s.io/client-go v0.29.1
 	src.techknowlogick.com/xormigrate v1.7.1
 	xorm.io/builder v0.3.13
-	xorm.io/xorm v1.3.6
+	xorm.io/xorm v1.3.7
 )
 
 require (
